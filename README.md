@@ -1,2 +1,3 @@
-# fall20-Nur-Gundogdu
-fall20-Nur-Gundogdu created by GitHub Classroom
+Nur Gundogdu
+
+[Here](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/) is my GitHub page.
