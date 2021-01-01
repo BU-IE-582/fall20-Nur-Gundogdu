@@ -20,4 +20,4 @@
 
 [Here is Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.html)
 
-[Here is Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.ipynb)
+[Here is code for Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.ipynb)
