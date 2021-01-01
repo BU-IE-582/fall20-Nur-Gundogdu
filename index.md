@@ -15,3 +15,9 @@
 [Here is Homework2](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/HW%202.html)
 
 [Here is code for Homework2](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/HW%202.ipynb)
+
+### Homework 3
+
+[Here is Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.html)
+
+[Here is Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.ipynb)
