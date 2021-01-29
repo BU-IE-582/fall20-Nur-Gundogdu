@@ -21,3 +21,21 @@
 [Here is Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.html)
 
 [Here is code for Homework3](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/Homework3.ipynb)
+
+### Homework 4
+
+[Here is Sports data report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Sports.html)
+
+[Here is code for Sports](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Sports.ipynb)
+
+[Here is Covertype report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Covertype.html)
+
+[Here is code for Covertype](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Covertype.ipynb)
+
+[Here is Bioassay report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Bioassay.html)
+
+[Here is code for Bioassay](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4Bioassay.ipynb)
+
+[Here is Parkinson report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4parkinson.html)
+
+[Here is code for Parkinson](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4parkinson.ipynb)
