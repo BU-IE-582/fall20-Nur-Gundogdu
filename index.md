@@ -39,3 +39,11 @@
 [Here is Parkinson report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4parkinson.html)
 
 [Here is code for Parkinson](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/4parkinson.ipynb)
+
+### Project
+
+[Project Report](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/IE582_ProjectReport_HNY.pdf)
+
+[Project Codes of Final Submission](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/PROJECT_FINAL_SUBMISSION.ipynb)
+
+[Codes for sampling and tuning](https://bu-ie-582.github.io/fall20-Nur-Gundogdu/SOLUTIONS_FOR_IMBALANCE and HYPERPARAMETER SEARCH.ipynb)
